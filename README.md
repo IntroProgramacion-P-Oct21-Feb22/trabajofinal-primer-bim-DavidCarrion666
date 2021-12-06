@@ -1,5 +1,11 @@
 # Trabajo Final del Primer Bimestre
 
+Grupal:
+
+Pablo Andres Costa Torres
+
+David Ernesto Carrión Acosta
+
 ## Actividades
 
 * Por cada problemáticas realizar las siguientes actividades
